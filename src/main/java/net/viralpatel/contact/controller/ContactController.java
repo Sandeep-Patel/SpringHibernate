@@ -1,6 +1,6 @@
 package net.viralpatel.contact.controller;
 
-import java.util.Map;
+import java.util.Map;    
 
 import net.viralpatel.contact.form.Contact;
 import net.viralpatel.contact.service.ContactService;
